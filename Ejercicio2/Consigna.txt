@@ -1,0 +1,13 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------solucion 2-------------------------------------------------------------------------------
+
+A) un joven muy afortunado logró ganar el primer premio de la loteria , este pobre decide hacer unafiesta para festejar que salio de la pobreza con este millonario
+ compró una maquina que deja pasar solamente a los mayores de edad entre otras cosas.
+
+actividad:
+
+	- dejar pasar solo a los mayoresde de edad. 
+	- la primer persona que entre despues de las 2 am, no paga.
