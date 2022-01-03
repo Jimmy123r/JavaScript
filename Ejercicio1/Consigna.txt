@@ -1,0 +1,26 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------solucion 1-------------------------------------------------------------------------------
+
+A) 3 chicos de 23 años perfectamente normales entran a una heladeria a comprar un helado pero hayun problema: los precios no estan al lado de cada estante con su 
+respectivo helado
+ellos quieren comprar el helado mas caro que puedan con la plata que tienen.
+
+roberto tiene $1.5 USD
+pedro tiene $1.7 USD
+cofla tiene 3 USD
+los precios de helados son los siguientes:
+palito de helado de agua : $0.6 USD
+palito de helado de crema : $1 USD
+bombón helado marca heladix : $1.6 USD
+bombón helado marca heladovich : $1.7 USD
+bombón helado marca helardo : $1.8 USD
+potecito de helado con confites: $2.9 USD
+pote de 1/4 kg -> $2.9 USD
+
+actividad:
+	-pedirles que ingresen el monto que tienen y mostrarles el helado
+	-si hay 2 o mas con el mismo precio , mostrar ambos.
+	- cofla quiere saber cuanto es el vuelto.
