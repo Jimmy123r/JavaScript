@@ -1,0 +1,13 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------solucion 3----------------------------------------------------------------------------
+
+A)jimmy comienza las clases del ciclo basico de la universidad( porque jimmy quiere ser programador y se escribio en la facultad de ingenieria para estudiar desarrollo de software).
+en su curso en total son 19 alumnos , pero surgio un problema que complico un poco a la facultad :se rompió el sistema de registro asistencias y durante los próximos 30 dias 
+no se podran hacer registros de datos de ningun tipo ,por ende las clases no podrán comenezar hasta que esto este solucionado.
+actividad:
+	-crear mini-sistema que nos permita registrar los alumnos que estan presentes (P) y ausentes (A) en clase.
+	- pasados los 30 dias mostrar la situacion final de todos los alumnos(Nro total de presentes y ausentes).
+	- se puede tener un maximo de 10% de ausencias por semestre, si se tienen mas aclarar que está reprobado.
