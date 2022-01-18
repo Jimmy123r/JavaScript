@@ -1,0 +1,16 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------solucion 3.0----------------------------------------------------------------------------
+A) Jimmy entró a una tienda que vende celulares porque le parecio bastante bueno comprarse un nuevo celular.
+de todos los modelos que hay disponibles en esa tienda, a Jimmy le llamaron la atención 3 celulares especificamente,
+el problema es que ningun vendedor sabe nada al respecto entonces no pueden reconmendarle absolutamente nada.... pero claro:
+el antes de comprar esos celulares quiere ver las cualidades y comportamientos de cada uno para poder comprarlo.
+
+
+Actividad:
+
+-crear un sistema para mostrarle a cofla las particularidades de los 3 celulares.
+-cada celular debe tener color , peso, resolucion de pantalla, resolucion de camara y memoria ram.
+-cada celular debe poder prender , reiniciar, apagar, tomar fotos y grabar.
