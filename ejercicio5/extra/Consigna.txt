@@ -1,0 +1,13 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------extra----------------------------------------------------------------------------
+b)jimmy no esta satisfecho con los celulares asi que decide ir  a la seccion de celulares de alta gama, donde va a poder
+encontrar los celulares mas caros del lugar, asi que al entrar vio dos celulares que le encantaron , estos 2 celulares de alta
+camara super lenta, tiene reconocimiento facial y una camara extra.
+
+
+Actividad:
+
+- implemtar todas estas cualidades en los celulares de alta gama
