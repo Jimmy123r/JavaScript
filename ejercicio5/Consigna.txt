@@ -11,6 +11,6 @@ el antes de comprar esos celulares quiere ver las cualidades y comportamientos d
 
 Actividad:
 
--crear un sistema para mostrarle a cofla las particularidades de los 3 celulares.
+-crear un sistema para mostrarle a jimmy las particularidades de los 3 celulares.
 -cada celular debe tener color , peso, resolucion de pantalla, resolucion de camara y memoria ram.
 -cada celular debe poder prender , reiniciar, apagar, tomar fotos y grabar.
