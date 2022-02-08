@@ -1,0 +1,12 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------SOLUCIONES----------------------------------------------------------------------------
+A)jimmy ya está terminando el primer semestre del primer ciclo, la tarea que debe realizar es mucho mas avanzada de la que tenia antes, además de suma,resta,multiplicacion y division
+ahora tambien necesitara calcular potencias, raices cuadrada  y cubicas.
+
+Actividad:
+
+	-perfeccionar calculadora para poder implementar las nuevas funciones.
+
