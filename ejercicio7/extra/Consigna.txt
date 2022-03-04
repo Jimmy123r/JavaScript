@@ -1,0 +1,14 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------SOLUCIONES----------------------------------------------------------------------------
+A)la facultad de jimmy está por comenzar y ya las 12 materias de la carrera tienen asignado un profesor y todos los alumnos que se anotaron en dichas clases, primero necesitamos ver esto
+comodamente.
+
+Actividad:
+	-crear una funcion para preguntarle a jimmy en que materia se quiere escribir
+	-si ya hay 20 alumnos anotados en la materia negarle la inscripcion-
+	-si hay menos de 20 añumnos inscribir a jimmy y añadirlo a la lista de alumnos
+	
+
