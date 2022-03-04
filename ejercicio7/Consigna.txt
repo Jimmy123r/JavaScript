@@ -1,0 +1,17 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------SOLUCIONES----------------------------------------------------------------------------
+A)la facultad de jimmy está por comenzar y ya las 12 materias de la carrera tienen asignado un profesor y todos los alumnos que se anotaron en dichas clases, primero necesitamos ver esto
+comodamente.
+
+Actividad:
+	-crear una funcion que el pasarle como parametro la materia nos devuelva
+		*profesor asignado
+		* el nombre de todos los alumnos.
+
+	-crear funcion que nos diga en cuantas clases esta jimmy.
+	-nombrar las clases en la que esta y los profesores de cada una.
+	
+
