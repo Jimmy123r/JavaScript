@@ -5,16 +5,20 @@
             var g_marte  = 3.7;
             var g_jupiter = 24.8;
             var peso_final;
+            var nombre;
             if (planeta == 1) {
                peso_final = peso * g_marte / g_tierra;
+                nombre = "marte";
 
             }
             else if(planeta == 2){
                   peso_final = peso * g_jupiter / g_tierra;
+                  nombre = "jupiter";
             }
             else{
-              peso_final = 100000000000;
+              peso_final = 100000;
+              nombre = "Narnia";
             }
+          peso_final = parseInt(peso_final);
+               document.write(`Tu peso en ${nombre} es <strong>${peso_final} kilos</strong>`);
             
-            peso_final = parseInt(peso_final);
-            document.write(`tu peso en marte es <strong>${peso_final} kilos</strong>`);
