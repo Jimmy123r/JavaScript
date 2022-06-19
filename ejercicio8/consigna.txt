@@ -1,0 +1,13 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------SOLUCIONES----------------------------------------------------------------------------
+A)termino el primer semestre y jimmy no sabe si aprobará o no las materias, para lograrlo necesitará:
+contar con al menos el 90% de asistencia.
+el promedio por materia debe ser al menos 7/10.
+debe tener al menos del 75% de los trabajos practicos entregados.
+
+Actividad:
+	-solicitar los datos y decirle si aprueba o no.
+	- Mostrar todo esto con colores representativos en consola (ej): no aprobar en rojo.
