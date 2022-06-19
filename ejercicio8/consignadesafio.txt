@@ -1,0 +1,26 @@
+from : jimmy
+
+
+
+-----------------------------------------------------------------SOLUCIONES----------------------------------------------------------------------------
+A)jimmy está sufrindo un poco... ya que , a pesar de que cree contar con el 90% de asistencias
+y tener un promedio mayor  a 7/10 , no cree entregar el 75% de trabajos practicos entregados ya
+que necesita dividir las tareas que hara semanalmente, cofla debe, trabajar 8 horas por dias
+durante 2 semanas entre las cuales tiene que: 24 horas estudiar, 24 horas hacer trabajos 
+practicos, 56 horas de trabajar 8 horas de hacer las cosas de la casa
+Actividad:
+	- organizar las actividades diariamente.
+	- utilizar la consola para organizar todo.
+	- el tiempo por tarea no debe superar las 4 horas.
+
+
+
+30 las cosa de la casa
+100 trabajos
+10 minutos de descanso
+100 estudiar
+240 trabajo
+
+8 horas de trabajo por dia 2 semanas
+24 horas estudiar
+24 hacer trabajosp practicos
